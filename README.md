@@ -4,7 +4,7 @@
 React App for drinks and meals recipes, using React Hooks and Context API for state management. It's possible to visualize, search, filter, favorite, share and save progress of meals and drinks recipes!
 This App layout is focused on mobile, with smaller screen.
 
-- Project Contributors
+- Project Collaborators
 > [Caio Oliveira](https://github.com/caiobacode), [Sérgio Henrique Ruza](https://github.com/sergioruza), [Lilian Alves Durães](https://github.com/LilianAlvesDuraes), [Fernando Barreto Costa](https://github.com/fernando-costa)
 
 
